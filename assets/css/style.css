@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: #f9f9f9;
+    color: #333;
+}
+header {
+    background: #0077cc;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+section {
+    padding: 2rem;
+}
+.package {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
